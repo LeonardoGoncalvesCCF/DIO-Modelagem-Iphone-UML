@@ -1,4 +1,4 @@
-package sistema.iphone.navegador;
+package Iphone.iphone.navegador;
 
 public class NavedorDeInternet {
 	

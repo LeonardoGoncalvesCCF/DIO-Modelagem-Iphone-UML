@@ -1,6 +1,6 @@
-package sistema;
+package Iphone;
 
-public class SistemaOperacional {
+public class Iphone {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

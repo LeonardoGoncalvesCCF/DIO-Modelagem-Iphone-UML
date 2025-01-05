@@ -1,11 +1,11 @@
-package sistema.iphone.aprelho;
+package Iphone.iphone.aprelho;
 
 public class AparelhoTelefonico {
 	
 	
 	static void ligar(String numero) {
 	
-		System.out.println(" Ligar ");
+		System.out.println(" Ligando ");
 		
 	}
 	
